@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1587186156 source:c:\users\fernando\desktop\utn\programacion\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	"misFunciones.h"
+
+1587185132 c:\users\fernando\desktop\utn\programacion\calculadora\misfunciones.h
+
+1587185195 source:c:\users\fernando\desktop\utn\programacion\calculadora\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	"misFunciones.h"
+
